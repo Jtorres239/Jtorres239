@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Joseph! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/joseph-torres-21547a224
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
